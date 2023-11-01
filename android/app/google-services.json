@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898936438290",
+    "project_id": "dummy-ac933",
+    "storage_bucket": "dummy-ac933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898936438290:android:0ccd08b94223395c1962cb",
+        "android_client_info": {
+          "package_name": "com.example.rarecrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRqNfSKE-FZfFoGnjs-OAbB1rjac-B5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
